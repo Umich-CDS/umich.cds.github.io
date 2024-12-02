@@ -1,0 +1,17 @@
+current directory: /Users/marschmi/git_repos_lab/MarschmiLab.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220118-63357-t99ncr.rb extconf.rb --with-cppflags\=-I/usr/local/opt/openssl@1.1/include
+creating Makefile
+
+current directory: /Users/marschmi/git_repos_lab/MarschmiLab.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/marschmi/git_repos_lab/MarschmiLab.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/3.0.3/lib/libruby.3.0.dylib) was built for newer macOS version (12.0) than being linked (11.1)
+
+current directory: /Users/marschmi/git_repos_lab/MarschmiLab.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220118-63357-k1jnn6
