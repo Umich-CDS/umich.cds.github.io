@@ -1,7 +1,7 @@
-site: MarschmiLab.github.io
+site: UMich-CDS.github.io
 
-url: https://MarschmiLab.github.io
-baseurl: /MarschmiLab.github.io/
+url: https://UMich-CDS.github.io
+baseurl: /UMich-CDS.github.io/
 
 collections:
   pages:
