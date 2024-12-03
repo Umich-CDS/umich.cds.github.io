@@ -8,16 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
-      url: '/about'
+    - title: 'Services'
+      url: ''
     - title: 'Contact'
       url: '/contact'
     - title: 'Pipelines'
       url: '/pipelines'
-    - title: 'Services'
-      url: '/services'
     - title: 'Workshops'
       url: '/workshops'
+    - title: 'Pipelines'
+      url: '/blog/'
 
 footer_settings:
   footer_tagline: Providing Rogel Cancer Center investigators assistance in all quantitative aspects of cancer research.
