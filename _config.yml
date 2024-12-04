@@ -1,7 +1,7 @@
 site: UMich-CDS.github.io
 
 url: https://UMich-CDS.github.io
-baseurl: /UMich-CDS.github.io/
+baseurl: /
 
 collections:
   pages:

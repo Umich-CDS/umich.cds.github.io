@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.9.0'
+#gem 'jekyll', '3.9.0'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
@@ -8,6 +8,6 @@ group :jekyll_plugins do
 end
 
 # Gemfile
- gem "github-pages", "~> 223", group: :jekyll_plugins
+ gem "github-pages", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
