@@ -16,7 +16,7 @@ menu_settings:
       url: '/pipelines'
     - title: 'Workshops'
       url: '/workshops'
-    - title: 'Pipelines'
+    - title: 'Projects'
       url: '/blog/'
 
 footer_settings:
